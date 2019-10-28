@@ -1,6 +1,6 @@
 {
   "name": "@toolmaker/dummy-react-npm-module",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A dummy react npm module",
   "main": "index.js",
   "public": true,
