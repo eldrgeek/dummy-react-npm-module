@@ -6,7 +6,7 @@ on:
             - master
 
 jobs:
-  build_and_publish:
+  build-and-pub:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
