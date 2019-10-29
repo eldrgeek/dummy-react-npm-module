@@ -1,6 +1,6 @@
 {
   "name": "@toolmaker/dummy-react-npm-module",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "A dummy react npm module",
   "main": "index.js",
   "public": true,
@@ -10,14 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/recraftstudio/dummy-react-npm-module.git"
+    "url": "git+https://github.com/eldrgeek/dummy-react-npm-module"
   },
   "author": "Manoj Singh Negi",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/recraftstudio/dummy-react-npm-module/issues"
-  },
-  "homepage": "https://github.com/recraftstudio/dummy-react-npm-module#readme",
+  
+  "homepage": "https://github.com/eldrgeek/dummy-react-npm-module",
   "peerDependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.3"
